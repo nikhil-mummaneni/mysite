@@ -251,7 +251,35 @@ main > .section:first-of-type {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: rgb(44, 129, 163)/*var(--light-color)*/;
+  background-color: rgb(250, 230, 51)/*var(--light-color)*/;
   margin: 0;
   padding: 40px 0;
+}
+
+main .yellow{
+  background-color: yellow;
+}
+main .blue{
+  background-color: blue;
+}
+main .red{
+  background-color: red;
+}
+main .green{
+  background-color: green;
+}
+main .orange{
+  background-color: orange;
+}
+main .coral{
+  background-color: coral;
+}
+main .skyblue{
+  background-color: skyblue;
+}
+main .darkslategrey{
+  background-color:darkslategrey ;
+}
+main .grey-text{
+  color: grey;
 }
